@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee95931e-7dbb-4ef9-b0ae-41f6248ecdfd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <workItem from="1602768712782" duration="4915000" />
       <workItem from="1602776800297" duration="127000" />
       <workItem from="1603088701076" duration="5326000" />
-      <workItem from="1603171826888" duration="745000" />
+      <workItem from="1603171826888" duration="1527000" />
     </task>
     <task id="LOCAL-00001" summary="version2 blur and reblur 2sec. after">
       <created>1603113263345</created>
@@ -75,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603113263345</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="version3 blur and reblur onmouserover">
+      <created>1603174011031</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603174011031</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +102,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="version2 blur and reblur 2sec. after" />
-    <option name="LAST_COMMIT_MESSAGE" value="version2 blur and reblur 2sec. after" />
+    <MESSAGE value="version3 blur and reblur onmouserover" />
+    <option name="LAST_COMMIT_MESSAGE" value="version3 blur and reblur onmouserover" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602768739684">
@@ -111,9 +118,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="741" y="224" key="Github.UntrackedFilesDialog/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602776891408" />
-    <state x="269" y="91" key="Vcs.Push.Dialog.v2" timestamp="1603113265388">
+    <state x="269" y="91" key="Vcs.Push.Dialog.v2" timestamp="1603174013442">
       <screen x="0" y="0" width="1354" height="716" />
     </state>
-    <state x="269" y="91" key="Vcs.Push.Dialog.v2/0.0.1354.716@0.0.1354.716" timestamp="1603113265388" />
+    <state x="269" y="91" key="Vcs.Push.Dialog.v2/0.0.1354.716@0.0.1354.716" timestamp="1603174013442" />
   </component>
 </project>
