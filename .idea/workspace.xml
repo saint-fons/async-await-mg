@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee95931e-7dbb-4ef9-b0ae-41f6248ecdfd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
@@ -66,8 +65,17 @@
       <updated>1602768711747</updated>
       <workItem from="1602768712782" duration="4915000" />
       <workItem from="1602776800297" duration="127000" />
-      <workItem from="1603088701076" duration="4615000" />
+      <workItem from="1603088701076" duration="5326000" />
+      <workItem from="1603171826888" duration="745000" />
     </task>
+    <task id="LOCAL-00001" summary="version2 blur and reblur 2sec. after">
+      <created>1603113263345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603113263345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="version2 blur and reblur 2sec. after" />
+    <option name="LAST_COMMIT_MESSAGE" value="version2 blur and reblur 2sec. after" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602768739684">
@@ -101,5 +111,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="741" y="224" key="Github.UntrackedFilesDialog/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602776891408" />
+    <state x="269" y="91" key="Vcs.Push.Dialog.v2" timestamp="1603113265388">
+      <screen x="0" y="0" width="1354" height="716" />
+    </state>
+    <state x="269" y="91" key="Vcs.Push.Dialog.v2/0.0.1354.716@0.0.1354.716" timestamp="1603113265388" />
   </component>
 </project>
